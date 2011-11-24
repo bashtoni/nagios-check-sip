@@ -71,3 +71,5 @@ Known bugs/issues
 
 check_sip does not presently support SRV records.  You can use the -H and -p
 options to query the correct host.
+You may need to use external Perl by adding /usr/bin/perl before the check 
+command.
