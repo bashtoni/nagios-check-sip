@@ -1,5 +1,11 @@
 Change log
 
+v1.4
+  Generate a unique branch tag in accordance with RFC3261. This allows
+  PJSIP to repond to the correct port if there are multiple checks
+  within a short space of time
+  (Craig Gowing, credativ Ltd)
+
 v1.3
   Added SIP Re-tranmission
   (Ryanny Lin)
